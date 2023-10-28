@@ -1,7 +1,7 @@
 const strings = [
-  "https://dsc.gg/rosnehook",
-  "https://youtube.com/@RosneGaming",
-  "https://github.com/rosne-gamingyt",
+  "dsc.gg/rosnehook",
+  "youtube.com/@RosneGaming",
+  "github.com/rosne-gamingyt",
   "ROSNEHOOK"
 ];
 
