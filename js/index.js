@@ -6,8 +6,8 @@ const strings = [
 ];
 
 const audios = [
-  "https://cdn.discordapp.com/attachments/1146241641888350269/1167526427743232052/MICSPAM_V2.mp3?ex=654e72b7&is=653bfdb7&hm=eb006ebbf14bc39ed9160c5633280586bab180252767a8611d9e0b562824f8ac&",
-  "https://cdn.discordapp.com/attachments/1146241641888350269/1167878627380174858/1028.mp3?ex=654fbaba&is=653d45ba&hm=4e4132e5d18ac39af98373f2a2b769588afb78c56e0b43530a3a8e5be30d358a&",
+  "https://cdn.discordapp.com/attachments/1146241641888350269/1167526427743232052/MICSPAM_V2.mp3",
+  "https://cdn.discordapp.com/attachments/1146241641888350269/1167878627380174858/1028.mp3",
 ]
 
 $(document).ready(function() {
